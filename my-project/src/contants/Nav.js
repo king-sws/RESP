@@ -1,0 +1,1 @@
+export const Nav = ['Residencies' , 'Our Value'  , 'Contact Us' , 'Get Started']
